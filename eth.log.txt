@@ -1,0 +1,21 @@
+[C:\Users\Anthony\Desktop\GMD\eth.log.txt]
+Backbuffer created as 1280, 720 on default backbuffer mode
+____________________________
+
+Loading game script from source-code: main.angelscript
+
+[INFO ] main.angelscript, line 133: Compiling void ETHCallback_boss(ETHEntity@)
+
+[WARN ] main.angelscript, line 138: Signed/Unsigned mismatch
+
+[INFO ] main.angelscript, line 189: Compiling void ETHCallback_robot(ETHEntity@)
+
+[WARN ] main.angelscript, line 232: Signed/Unsigned mismatch
+
+[INFO ] main.angelscript, line 269: Compiling void ETHCallback_bullet(ETHEntity@)
+
+[WARN ] main.angelscript, line 276: Signed/Unsigned mismatch
+
+Compile time: 16 milliseconds
+(Loaded) menu1.png
+(Loaded) menu3.png

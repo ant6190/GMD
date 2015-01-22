@@ -1,0 +1,11 @@
+[C:\Users\Anthony\Desktop\GMD\_error.log.txt]
+
+[ERROR] main.angelscript, line 40: 'id' is not declared
+
+[ERROR] main.angelscript, line 49: 'id' is not declared
+[ERROR] main.angelscript, line 49: Illegal operation on 'const int'
+
+[ERROR] main.angelscript, line 54: 'id' is not declared
+[ERROR] main.angelscript, line 54: Illegal operation on 'const int'
+ERROR - Failed while building module.
+ERROR - ETHEngine::StartEngine: no scene has been loaded.

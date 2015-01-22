@@ -1,0 +1,7 @@
+[C:\Users\Anthony\Desktop\GMD\_warning.log.txt]
+
+[WARN ] main.angelscript, line 138: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 232: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 276: Signed/Unsigned mismatch
